@@ -6,8 +6,8 @@ Learn about variables, data types, and basic Python syntax.
 # Exercise 1: Variables and Assignment
 # Create variables for the following information about yourself:
 name = "Your Name Here"  # Replace with your actual name
-age = 20  # Replace with your actual age
-height = 5.8  # Replace with your height in feet
+age = 22  # Replace with your actual age
+height = 6.3  # Replace with your height in feet
 is_student = True  # True or False
 
 # Print all variables
@@ -77,16 +77,16 @@ print("a =", a, "b =", b, "c =", c)
 # Complete the following assignments:
 
 # String variable containing your favorite color
-favorite_color = 
+favorite_color = "red"
 
 # Integer variable with the current year
-current_year = 
+current_year = "2003"
 
 # Float variable with your favorite number (with decimal)
-favorite_number = 
+favorite_number = "99.9"
 
 # Boolean variable indicating if you like pizza
-likes_pizza = 
+likes_pizza = True
 
 # Print all variables with descriptive messages
 print("My favorite color is:", favorite_color)
