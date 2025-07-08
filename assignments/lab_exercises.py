@@ -14,7 +14,7 @@ print("=== Personal Profile Creator ===")
 # Then display it as a profile
 
 # Write your solution here:
-
+print("\n---------------your in formation---------------\n")
 name = input("What is your name?")
 age = input("How old are you?")
 email = input("Enter your email")
