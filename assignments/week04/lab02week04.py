@@ -8,7 +8,7 @@ def number_operations():
         numbers.append(number)
 
     # Display original list
-    print(f"\nOriginal numbers: {numbers}")
+    print(f"\nThe numbers your put: {numbers}")
     
     # Create filtered lists
     even_numbers = []
@@ -25,6 +25,7 @@ def number_operations():
             even_numbers.append(numbers[i])
         else:
             odd_numbers.append(numbers[i])
+        
 
         if numbers[i] > average:
             above_average.append(numbers[i])

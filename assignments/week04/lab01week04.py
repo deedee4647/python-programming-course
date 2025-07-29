@@ -1,5 +1,5 @@
 person = ("Ratchaphol", 25, "Bangkok", "Thailand")
-hobbies = ["reading", "eating", "sleeping"]
+hobbies = ["reading", "eating", "sleeping", "drawing"]
 
 def display_info(person, hobbies):
     print("\n=== Personal Info ===")
