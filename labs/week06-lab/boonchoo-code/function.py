@@ -229,7 +229,7 @@ def is_strong_password(password):
     return True, "Password is strong!"
 
 print("Password Validator:")
-passwords = ["abc123", "password", "mypass123", "str0ng!", "weak"]
+passwords = ["abc123", "password",  "str0ng!", "weak"]
 for pwd in passwords:
     is_strong, message = is_strong_password(pwd)
     status = "✓" if is_strong else "✗"
